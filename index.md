@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+Retail IT Solutions Dynamic VAT Management (DVM) is an extension for LS Central for Microsoft Dynamics Business Central developed for ferries.
+
+
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AalundSQ/DVM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
