@@ -1,6 +1,6 @@
 # VESSEL SETUP
 
-![img1](./assets/vessel_setup_billed1.png)
+![img1](docs/assets/vessel_setup_billed1.png)
 
 Før Dynamic VAT Management kan tages i brug, skal der oprettes Vessels og Routes og Legs.
 Alle ruter oprettes i tabellen Route. Bemærk at alle ruter, der forefindes i Timetable filen, skal være oprettet. I modsat fald, vil Timetable indlæsningen fejle.
