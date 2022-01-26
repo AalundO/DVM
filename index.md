@@ -1,41 +1,9 @@
-Retail IT Solutions Dynamic VAT Management (DVM) is an extension for LS Central for Microsoft Dynamics Business Central developed for ferries.
+# DYNAMIC VAT MANAGEMENT
+Dynamic VAT Management er udviklet til at skifte moms, på udenrigstrafik, afhængig af destination. 
+Modulet skifter moms, ved at ændre POS transaktionernes VAT Bus. Posting Group, ved opslag i Timetable, som skal indlæses i systemet, for at moms-skiftet kan udføres.
+Uden Timetable, vil systemet anvender den, på Store Card angivne VAT Bud. Posting Group.
+Modulet Giver ikke umiddelbart mulighed for ændring af dimensioner eller andre parametre, som ikke er styret af Moms bogføringsgruppen.
+Modulet er udviklet på engelsk og dansk oversættelse er pt. ikke tilgængelig.
+Ingen behov for Opgave-kø til opdatering af moms.
 
 
-
-Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AalundSQ/DVM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AalundSQ/DVM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
